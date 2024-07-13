@@ -12,4 +12,4 @@ Solution: Use generative AI to create personalized engagement messages based on 
 
 For this project, we have made our own datasets, with 2 types of files, once contains the sample customer support data and the other has the sample customer support data after cleaning and preprocessing the data
 
-Future scope, implementing this model using API Integration (i.e using OpenAI's API) and Automation, along with geeting the API key)
+Future scope, implementing this model using API Integration (i.e using OpenAI's API) and Automation, along with getting access to the API key
